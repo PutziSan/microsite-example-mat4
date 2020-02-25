@@ -1,8 +1,8 @@
-.example {
-  background-color: aqua;
+body {
+  margin: 0;
 }
 
-.crazy-class {
-  background-color: tomato;
-  height: 10rem;
+.hero {
+  width: 100vw;
+  height: 100vh;
 }
